@@ -1,0 +1,29 @@
+ContextMenu_RU = {
+	ContextMenu_Loosen = "Ослабить",
+	ContextMenu_Tighten = "Затянуть",
+	ContextMenu_TieOnWaist = "Обвязать вокруг пояса",
+	
+	ContextMenu_JacketOpen = "Расстегнуть куртку",
+	ContextMenu_ClosedJacket = "Застегнуть куртку",
+	
+	ContextMenu_VestBag = "Использовать как сумку",
+	ContextMenu_VestBullet = "Использовать как бронижелет",
+	ContextMenu_VestRadio = "Использовать как радио",
+	
+	ContextMenu_WearHead = "Надеть на голову",
+	ContextMenu_WearNeck = "Надеть на шею",
+	
+	ContextMenu_AfroPick = "Надеть на макушку",	
+	ContextMenu_AfroPick2 = "Надеть на нижнюю часть",	
+	
+	ContextMenu_HatsOnHats = "Надеть шляпу на шляпу",	
+	ContextMenu_WearNormally = "Надеть на голову",	
+	
+	ContextMenu_TakeOffShoeCovers = "Снять бахилы",	
+	ContextMenu_TakeOffShoeCoversAndMask = "Снять бахилы и маску",	
+	ContextMenu_TakeOffMask = "Снять маску",	
+	ContextMenu_WearNormally2 = "Надеть маску и бахилы",	
+
+	ContextMenu_TipHatBack = "Откинуть шляпу назад",	
+	ContextMenu_TipHatForward = "Откинуть шляпу вперед",	
+} 
